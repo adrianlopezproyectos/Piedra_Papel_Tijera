@@ -7,7 +7,9 @@ b="papel"
 c="tijera"
 
 #Cada uno se muestra en pantalla, para que el usuario elija la opcion que desee.
+print("===================================================")
 print("Hola soy Bob! vamos a jugar piedra, papel o tijera")
+print("===================================================")
 print("a - piedra")
 print("b - papel")
 print("c - tijera")
